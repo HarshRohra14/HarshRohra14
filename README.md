@@ -9,15 +9,15 @@ Software engineering student focused on backend development and building real-wo
 
 ### TOMOBOARD  
 Real-time collaborative whiteboard  
-👉 https://your-link
+👉 [https://your-link](https://my-board-theta.vercel.app/sign-in)
 
 ### NEXUS  
 AI-powered research platform  
-👉 https://your-link
+👉 [https://your-link](https://nexus-research-rho.vercel.app/)
 
 ### WakeUp GenZ  
 AI fake news detector  
-👉 https://your-link
+👉 [https://your-link](https://github.com/HarshRohra14/WakeUp-GenZ)
 ## 🧠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,mysql,react" />
